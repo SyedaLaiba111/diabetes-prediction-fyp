@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403067221469",
+    "project_id": "diabities-e9b93",
+    "storage_bucket": "diabities-e9b93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403067221469:android:013b33cd142c0b5284b234",
+        "android_client_info": {
+          "package_name": "com.example.diabities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwFW7L_qOligcreC-Nrfg9vq_SHYiiUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
